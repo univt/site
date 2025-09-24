@@ -1,0 +1,15 @@
+{
+  "list": {
+    "emptyStateText": "Список контактов пуст.",
+    "query": [
+      {
+        "codename": "vk"
+      },
+      {
+        "codename": "instagram"
+      }
+    ],
+    "sourceRelativeURL": "data/entities/ut-contacts/ut-contacts.json"
+  },
+  "titleText": "Контакты"
+}
