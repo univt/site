@@ -1,0 +1,80 @@
+[
+  {
+    "codename": "calculationAndGraphicWork",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Расчётно-графическая работа (РГР)",
+    "priceDescription": "от 800 ₽"
+  },
+  {
+    "codename": "courseWork",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Курсовая работа",
+    "priceDescription": "от 2700 ₽"
+  },
+  {
+    "codename": "essay",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Эссе",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "codename": "googleSheets",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Вычисления в Google Sheets",
+    "priceDescription": "от 2700 ₽"
+  },
+  {
+    "codename": "graduateWork",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Дипломная работа",
+    "priceDescription": "от 6000 ₽"
+  },
+  {
+    "codename": "helpWithTest",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Помощь с тестом",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "codename": "increasingOriginality",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Повышение ори­ги­наль­ности",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "codename": "other",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Другое",
+    "priceDescription": "по договорённости"
+  },
+  {
+    "codename": "practiceReport",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Отчёт по практике",
+    "priceDescription": "от 2000 ₽"
+  },
+  {
+    "codename": "presentation",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Презентация",
+    "priceDescription": "от 400 ₽"
+  },
+  {
+    "codename": "programming",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Задачи по прог­рам­ми­ро­ва­нию",
+    "priceDescription": "от 4200 ₽"
+  },
+  {
+    "codename": "referat",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Реферат",
+    "priceDescription": "от 600 ₽"
+  },
+  {
+    "codename": "turnkeySession",
+    "contactURL": "https://vk.com/im?sel=-222131889",
+    "name": "Сессия под ключ",
+    "priceDescription": "от 3000 ₽"
+  }
+]

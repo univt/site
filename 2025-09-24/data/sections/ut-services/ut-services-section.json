@@ -1,0 +1,88 @@
+{
+  "list": {
+    "emptyStateText": "Список услуг пуст.",
+    "openChatButtonText": "Открыть чат",
+    "query": [
+      {
+        "codename": "courseWork",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/file-20.svg"
+        }
+      },
+      {
+        "codename": "referat",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/pen-18.svg"
+        }
+      },
+      {
+        "codename": "graduateWork",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/certificate-11.svg"
+        }
+      },
+      {
+        "codename": "turnkeySession",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/file-12.svg"
+        }
+      },
+      {
+        "codename": "practiceReport",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/delivery-10.svg"
+        }
+      },
+      {
+        "codename": "essay",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/pen-18.svg"
+        }
+      },
+      {
+        "codename": "presentation",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/flip-chart-9.svg"
+        }
+      },
+      {
+        "codename": "calculationAndGraphicWork",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/ruler-30.svg"
+        }
+      },
+      {
+        "codename": "increasingOriginality",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/synchronization-20.svg"
+        }
+      },
+      {
+        "codename": "helpWithTest",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/task-1.svg"
+        }
+      },
+      {
+        "codename": "programming",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/code-11.svg"
+        }
+      },
+      {
+        "codename": "googleSheets",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/calculator-2.svg"
+        }
+      },
+      {
+        "codename": "other",
+        "parameters": {
+          "iconRelativeURL": "data/sections/ut-services/assets/iconmonstr.com/school-3.svg"
+        }
+      }
+    ],
+    "sourceRelativeURL": "data/entities/ut-services/ut-services.json"
+  },
+  "titleText": "Услуги"
+}

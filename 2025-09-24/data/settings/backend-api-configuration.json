@@ -1,0 +1,14 @@
+{
+  "customerReviewsSectionRelativeURL": "data/sections/customer-reviews/customer-reviews-section.json",
+  "frequentlyAskedQuestionsSectionRelativeURL": "data/sections/frequently-asked-questions/frequently-asked-questions-section.json",
+  "headerSectionRelativeURL": "data/sections/header/header-section.json",
+  "heroSectionRelativeURL": "data/sections/hero/hero-section.json",
+  "howAndWhatWeMakeSectionRelativeURL": "data/sections/how-and-what-we-make/how-and-what-we-make-section.json",
+  "improvementsAndGuaranteesSectionRelativeURL": "data/sections/improvements-and-guarantees/improvements-and-guarantees-section.json",
+  "inHouseExpertsSectionRelativeURL": "data/sections/in-house-experts/in-house-experts-section.json",
+  "navigationSettingsRelativeURL": "data/settings/navigation.json",
+  "userAuthenticationSettingsRelativeURL": "data/settings/user-authentication.json",
+  "utContactsSectionRelativeURL": "data/sections/ut-contacts/ut-contacts-section.json",
+  "utPeculiaritiesSectionRelativeURL": "data/sections/ut-peculiarities/ut-peculiarities-section.json",
+  "utServicesSectionRelativeURL": "data/sections/ut-services/ut-services-section.json"
+}
