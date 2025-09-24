@@ -1,0 +1,7 @@
+{
+  "list": {
+    "emptyStateText": "Не удалось загрузить список наших особенностей.",
+    "sourceRelativeURL": "data/entities/ut-peculiarities/ut-peculiarities.json"
+  },
+  "titleText": "Наши особенности"
+}

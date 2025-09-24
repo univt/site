@@ -1,0 +1,7 @@
+{
+  "list": {
+    "emptyStateText": "Список часто задаваемых вопросов пуст.",
+    "sourceRelativeURL": "data/entities/frequently-asked-questions/frequently-asked-questions.json"
+  },
+  "titleText": "Часто задаваемые вопросы"
+}
