@@ -1,0 +1,1 @@
+:root{--ut-color-golden-dark-20: color-mix(in srgb, var(--ut-color-golden), #000 20%)}:root{--app-link-color: var(--ut-color-complementary);--app-link-color-hover: var(--ut-color-golden-dark-20)}
