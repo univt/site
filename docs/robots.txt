@@ -1,4 +1,4 @@
 user-agent: *
 allow: /$
 allow: /home$
-disallow: */archives/*
+disallow: /archives/*
