@@ -1,2 +1,3 @@
-# site
-UniversyTest website
+# UniversyTest
+
+UniversyTest [website](https://universytest.github.io).
